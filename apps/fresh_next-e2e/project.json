@@ -1,0 +1,10 @@
+{
+  "name": "fresh_next-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/fresh_next-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["fresh_next"],
+  "// targets": "to see all targets run: nx show project fresh_next-e2e --web",
+  "targets": {}
+}
