@@ -1,3 +1,5 @@
+import Button from '../components/Button';
+
 export default function Index() {
   /*
    * Replace the elements below with your own.
@@ -46,6 +48,8 @@ export default function Index() {
               </svg>
             </div>
           </div>
+
+          <Button />
 
           <div id="middle-content">
             <div id="learning-materials" className="rounded shadow">
